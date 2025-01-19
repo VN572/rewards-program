@@ -1,0 +1,4 @@
+com/rewards/RewardSystemApplicationTests.class
+com/rewards/repository/CustomerRepositoryTests.class
+com/rewards/repository/TransactionRepositoryTests.class
+com/rewards/service/RewardServiceTests.class

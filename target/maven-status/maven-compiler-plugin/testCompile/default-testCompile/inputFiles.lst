@@ -1,0 +1,4 @@
+/workspaces/rewards-program/src/test/java/com/rewards/service/RewardServiceTests.java
+/workspaces/rewards-program/src/test/java/com/rewards/repository/TransactionRepositoryTests.java
+/workspaces/rewards-program/src/test/java/com/rewards/RewardSystemApplicationTests.java
+/workspaces/rewards-program/src/test/java/com/rewards/repository/CustomerRepositoryTests.java

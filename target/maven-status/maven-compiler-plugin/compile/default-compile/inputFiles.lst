@@ -1,0 +1,7 @@
+/workspaces/rewards-program/src/main/java/com/rewards/controller/RewardController.java
+/workspaces/rewards-program/src/main/java/com/rewards/service/RewardService.java
+/workspaces/rewards-program/src/main/java/com/rewards/entity/Customer.java
+/workspaces/rewards-program/src/main/java/com/rewards/RewardSystemApplication.java
+/workspaces/rewards-program/src/main/java/com/rewards/repository/CustomerRepository.java
+/workspaces/rewards-program/src/main/java/com/rewards/repository/TransactionRepository.java
+/workspaces/rewards-program/src/main/java/com/rewards/entity/Transaction.java
